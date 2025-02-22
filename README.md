@@ -1,5 +1,5 @@
 # 🌦️ Weather CLI Application 🌦️  
-A simple command-line application built with Python to fetch real-time weather information for any city using the OpenWeatherMap API.
+A simple command-line application built using  Python to fetch real-time weather information for any city using the OpenWeatherMap API.
 
 ## 🚀 Features:  
 - 🌡️ Displays temperature in Celsius.  
