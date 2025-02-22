@@ -1,7 +1,7 @@
 import requests
 
-api_key = "41e706d4032fcadd3155cc572e92f899"
-base_url = "http://api.openweathermap.org/data/2.5/weather?"
+api_key = "Enter your API Key"
+base_url = "enter your base url"
 while(True):
     city_name = input("Enter city name: ").strip()
     complete_url = f"{base_url}appid={api_key}&q={city_name}"
