@@ -5,7 +5,6 @@ A simple command-line application built using  Python to fetch real-time weather
 - 🌡️ Displays temperature in Celsius.  
 - 🌬️ Shows atmospheric pressure (hPa).  
 - 💧 Provides humidity levels (%).  
-- 🌥️ Describes the current weather condition (e.g., Clear, Rainy, Cloudy).  
 - 🛠️ Includes robust error handling for invalid city names or network issues.  
 
 ## 🛠️ Technologies Used:  
